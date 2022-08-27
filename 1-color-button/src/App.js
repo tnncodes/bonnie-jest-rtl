@@ -3,7 +3,7 @@ import './App.css';
 const App = () => {
   return (
     <div>
-      <h2>Color Button</h2>
+      <button style={{ backgroundColor: 'red' }}>Change to blue</button>
     </div>
   );
 }
