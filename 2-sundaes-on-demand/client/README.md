@@ -4,7 +4,7 @@
 
 ### 1. Order Summary Page
 
-![Order Summary Page](https://github.com/tnncodes/bonnie-jest-rtl/blob/main/2-sundaes-on-demand/client/.github/1-summary-page.png)
+![Order Summary Page](https://github.com/tnncodes/bonnie-jest-rtl/blob/main/2-sundaes-on-demand/client/.github/1-order-summary-page.png)
 
 ### 2. Terms and Conditions Popover
 
